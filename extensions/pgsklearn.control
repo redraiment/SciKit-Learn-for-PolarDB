@@ -1,0 +1,5 @@
+comment = 'SciKit Learn for PolarDB'
+default_version = '1.0.0'
+requires = 'plpython3u'
+module_pathname = '$libdir/pgsklearn'
+relocatable = true
